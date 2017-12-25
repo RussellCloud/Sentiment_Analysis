@@ -28,7 +28,7 @@ russell init --name Sentiment_Analysis
 
 ```
 #运行模型训练代码并引用数据云上已经准备好的数据集
-russell run --gpu --mode jupyter --data 88177e45dee84237a46b2d8a34916109
+russell run --gpu --mode jupyter --data bad5f44ac4114d55939edf4f6bbe6dcb:data
 
 
 #训练结束后通过info命令获取项目输出output_id
